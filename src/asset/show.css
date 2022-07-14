@@ -1,0 +1,19 @@
+.showproduct{
+    /* background-color: brown; */
+    display: flex;
+    /* margin: 20px; */
+    width: 100%;
+    flex-wrap: wrap;
+}
+.show{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    margin: 29px;
+    border: 2px darkblue double;
+    width: 300px;
+    height: auto;
+    
+}
